@@ -18,8 +18,4 @@ Upon completing the workshop, you will be able to:
 - Build a simple web application using a data example.
 - Deploy Shiny apps using a self-service platform like shinyapps.io. 
 
-You can find out more about past and upcoming tutorials on our YouTube (coming soon) and [website](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/events/). If you are affiliated with Yale, you can set up an office hour appointment with one of the data scientists ([Bookings Page](https://outlook.office365.com/owa/calendar/DataScienceDataEquityOfficeHours@yale.edu/bookings/)).
-
-## About Repository
-
-This is the only repository associated with this workshop. It contains all of the relevant code, the data set, and a PDF of the slide deck that was used in the workshop. Limited comments were added to the slide deck PDF. Users who wish to see these extra commentaries will need to download the PDF to their local device.
+You can find out more about past and upcoming tutorials on our [website](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/events/). If you are affiliated with Yale, you can set up an office hour appointment with one of the data scientists ([Bookings Page](https://outlook.office365.com/owa/calendar/DataScienceDataEquityOfficeHours@yale.edu/bookings/)).
