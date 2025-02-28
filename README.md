@@ -30,8 +30,6 @@ This is the only repository associated with this workshop. It contains all of th
 - **For the worked through example and challenge questions:** `app.R`
 - **R version:** 4.4.1
 
-**NOTE:** The cleaning and census harmonization scripts have already been run to generate the necessary files called in the analysis workflow. Users of this repository will only need to open the `Analysis Script_Vaccinations Time-Series Plot.R`.
-
 ## Using this Repository
 
 ### Making a Clean-Break Copy
